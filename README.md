@@ -29,7 +29,7 @@ For more information, see the Ruby on Rails Tutorial book.
 
 # Weekly exercise description on commit
 
-`
+```sh
 * Week 1: complete fizz-buzz, prime number, quadratic equation exercise
 
 * Week 2: complete chapter 1
@@ -43,4 +43,4 @@ For more information, see the Ruby on Rails Tutorial book.
 	* Week 8: complete chapter 11, send mail
 	* Week 9: complete chapter 12, send reset password
 	* Week 10: complete chapter 13, 14, add microposts, following users
-`
+```
